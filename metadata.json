@@ -1,0 +1,6 @@
+{
+  "name": "Interview Question Generator",
+  "description": "A professional full-stack platform to generate role-specific interview questions, ideal answer keywords, and evaluator guidelines using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
